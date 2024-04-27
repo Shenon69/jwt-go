@@ -1,2 +1,2 @@
 # jwt-go
-Authentication with jwt-go, gorm, gin
+jwt-go, gorm, gin
